@@ -1,0 +1,14 @@
+# Ignore configuration files
+# config.json
+
+# Ignore compiled Python files
+*.pyc
+
+后删*.py
+
+知识空间节点处理/自动运行.pylog
+知识空间节点处理/自动运行.开关
+
+知识空间节点处理/knowledge_space_changes.json
+知识空间节点处理/knowledge_space_data.json
+知识空间节点处理/knowledge_space_log.txt

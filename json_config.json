@@ -1,0 +1,16 @@
+{
+    "app_id": "替换为你的应用ID",
+    "app_secret": "替换为你的应用密钥",
+    "doc_token": "替换为你的文档token",
+
+    "a2_date": "2026-12-31",
+
+    "sheet_id_write": "替换为你的写入表格ID",
+    "sheet_id_analysis": "替换为你的分析表格ID",
+    "sheet_id_gallery": "替换为你的图库表格ID",
+
+    "sheet_id_log": "替换为你的日志表格ID",
+    "sheet_id_test": "替换为你的测试表格ID",
+
+    "sheet_id_config": "替换为你的配置表格ID"
+}

@@ -1,0 +1,55 @@
+{"class_summary": 
+[{"keyword": "日常药品", "keyword_id": "[日常药品]", "inp_keyword": ["cs23"], "inp_content": ["维生素", "眼药水", "eds", "EDS", "甲硝唑凝胶", "甲硝", "郁美净"], "method": "class_summary", "last": "0"},
+ {"keyword": "室内运动", "keyword_id": "[室内运动]", "inp_keyword": ["cs44789"], "inp_content": ["瑜伽", "眼保健操"], "method": "class_summary", "last": "0"},
+ {"keyword": "户外运动", "keyword_id": "[户外运动]", "inp_keyword": ["cs33"], "inp_content": ["跑步"], "method": "class_summary", "last": "0"},
+ {"keyword": "临时药品", "keyword_id": "[临时药品]", "inp_keyword": ["留空", "留空"], "inp_content": ["留空", "留空"], "method": "class_summary", "last": "0"},
+ {"keyword": "早餐", "keyword_id": "[早餐]", "inp_keyword": ["留空", "留空11"], "inp_content": ["留空", "留空"], "method": "class_summary", "last": "0"},
+ {"keyword": "中餐", "keyword_id": "[中餐]", "inp_keyword": ["留空", "留空测试222"], "inp_content": ["留空", "留空"], "method": "class_summary", "last": "0"},
+ {"keyword": "晚餐", "keyword_id": "[晚餐]", "inp_keyword": ["留空", "留空"], "inp_content": ["留空", "留空"], "method": "class_summary", "last": "0"},
+ {"keyword": "夜餐", "keyword_id": "[夜餐]", "inp_keyword": ["留空"], "inp_content": ["留空", "留空"], "method": "class_summary", "last": "0"},
+ {"keyword": "入睡", "keyword_id": "[入睡]", "inp_keyword": ["rs", "睡", "s"], "inp_content": ["留空", "留空"], "method": "class_summary", "last": "0"},
+ {"keyword": "起床", "keyword_id": "[起床]", "inp_keyword": ["qc", "醒", "x"], "inp_content": ["留空", "留空22"], "method": "class_summary", "last": "0"},
+ {"keyword": "健康", "keyword_id": "[健康与情绪]", "inp_keyword": ["留空", "jk"], "inp_content": ["留空", "留空"], "method": "class_summary", "last": "0"},
+ {"keyword": "步数", "keyword_id": "[步数]", "inp_keyword": ["留空", "留空"], "inp_content": ["留空", "留空"], "method": "class_summary", "last": "0"},
+ {"keyword": "V", "keyword_id": "[V-Self]", "inp_keyword": ["v", "v", "v"], "inp_content": ["v1", "vyl", "VYL"], "method": "class_summary", "last": "0"},
+ {"keyword": "HY", "keyword_id": "[Hygiene]", "inp_keyword": ["hy", "hy", "hy2"], "inp_content": ["hy2"], "method": "class_summary", "last": "0"},
+ {"keyword": "KG", "keyword_id": "[King Glory]", "inp_keyword": ["kg", "kg", "kg"], "inp_content": ["留空", "留空"], "method": "class_summary", "last": "0"},
+ {"keyword": "AB", "keyword_id": "[Arena Breakout]", "inp_keyword": ["ab", "ab", "ab22"], "inp_content": ["留空", "留空"], "method": "class_summary", "last": "0"},
+ {"keyword": "支出/贰肆新年/在奎溪", "keyword_id": "[支出待合并]", "inp_keyword": ["zc", "支出", "558"], "inp_content": ["留空", "留空", "997"], "method": "class_summary", "last": "0"},
+ {"keyword": "学习", "keyword_id": "[学习]", "inp_keyword": ["留空22", "留空"], "inp_content": ["留空", "留空"], "method": "class_summary", "last": "0"},
+ {"keyword": "研究", "keyword_id": "[研究]", "inp_keyword": ["留空", "留空"], "inp_content": ["留空", "留空"], "method": "class_summary", "last": "0"},
+ {"keyword": "总结", "keyword_id": "[总结]", "inp_keyword": ["留空333", "留空"], "inp_content": ["留空", "留空"], "method": "class_summary", "last": "0"},
+ {"keyword": "视频选题", "keyword_id": "[视频选题]", "inp_keyword": ["留空", "留空"], "inp_content": ["留空", "留空"], "method": "class_summary", "last": "0"},
+ {"keyword": "地点", "keyword_id": "[地点]", "inp_keyword": ["留空", "留空"], "inp_content": ["留空", "留空"], "method": "class_summary", "last": "0"},
+ {"keyword": "不用11", "keyword_id": "不用222", "inp_keyword": ["不用333"], "inp_content": ["留空", "留空"], "method": "class_summary", "last": "0"},
+ {"keyword": "不用33", "keyword_id": "不用hy", "inp_keyword": ["不用hzy"], "inp_content": ["留空", "留空"], "method": "class_summary", "last": "0"}]
+, "class_kfc": 
+[{"keyword": "肯德基", "keyword_id": "[肯德基团购剩余天数与次数]", "inp_keyword": ["留空", "留空"], "inp_content": ["留空", "留空"], "method": "class_kfc", "last": "0"},
+ {"keyword": "塔斯汀", "keyword_id": "[塔斯汀团购剩余天数与次数]", "inp_keyword": ["留空", "留空"], "inp_content": ["留空", "留空"], "method": "class_kfc", "last": "0"},
+ {"keyword": "京豆", "keyword_id": "[京东京豆剩余天数与个数]", "inp_keyword": ["留空", "留空"], "inp_content": ["留空", "留空"], "method": "class_kfc", "last": "0"},
+ {"keyword": "京东健康卡", "keyword_id": "[京东健康卡剩余天数与次数]", "inp_keyword": ["留空", "留空"], "inp_content": ["留空", "留空"], "method": "class_kfc", "last": "0"}]
+, "class_plan": 
+[{"keyword": "规划", "keyword_id": "[规划]", "inp_keyword": ["留空", "留空"], "inp_content": ["留空", "留空"], "method": "class_plan", "last": "0"},
+ {"keyword": "规划/FT", "keyword_id": "[Defeat the enemy]", "inp_keyword": ["ft", "ft", "ft"], "inp_content": ["留空", "留空"], "method": "class_plan", "last": "0"},
+ {"keyword": "规划/QK", "keyword_id": "1706482654", "inp_keyword": ["ghqk"], "inp_content": ["留空", "留空"], "method": "class_plan", "last": ""}, {"keyword": "规划/QK/动作", "keyword_id": "1706482145", "inp_keyword": ["dz", "动作", "规划qk"], "inp_content": ["留空", "留空"], "method": "class_plan", "last": ""}]
+, "class_gpt": 
+[{"keyword": "ChatGPT", "keyword_id": "[ChatGPT Plus 订阅剩余天数]", "inp_keyword": ["gpt", "gpt", "gpt"], "inp_content": ["留空", "留空"], "method": "class_gpt", "last": "0"},
+ {"keyword": "哔哩哔哩", "keyword_id": "[哔哩哔哩大会员订阅剩余天数]", "inp_keyword": ["留空", "留空"], "inp_content": ["留空", "留空"], "method": "class_gpt", "last": "0"},
+ {"keyword": "青桔", "keyword_id": "[青桔单车卡剩余天数]", "inp_keyword": ["留空", "留空"], "inp_content": ["留空", "留空"], "method": "class_gpt", "last": "0"},
+ {"keyword": "哈啰", "keyword_id": "[哈啰单车卡剩余天数]", "inp_keyword": ["留空", "留空"], "inp_content": ["留空", "留空"], "method": "class_gpt", "last": "0"}]
+, "class_none": 
+[{"keyword": "不用哔哩哔哩", "keyword_id": "不用[哔哩哔哩大会员订阅剩余天数]", "inp_keyword": ["留空", "留空"], "inp_content": ["留空", "留空"], "method": "class_none", "last": "0"},
+ {"keyword": "不用青桔", "keyword_id": "不用[青桔单车卡剩余天数]", "inp_keyword": ["留空", "留空"], "inp_content": ["留空", "留空"], "method": "class_none", "last": "0"},
+ {"keyword": "不用哈啰", "keyword_id": "不用[哈啰单车卡剩余天数]", "inp_keyword": ["留空", "留空"], "inp_content": ["留空", "留空"], "method": "class_none", "last": "0"},
+ {"keyword": "BeeWare/提问", "keyword_id": "1705916011", "inp_keyword": ["bwtw"], "inp_content": ["留空", "留空"], "method": "class_none", "last": ""}, {"keyword": "游戏/星罗棋布", "keyword_id": "1705920818", "inp_keyword": ["qb"], "inp_content": ["留空", "留空"], "method": "class_none", "last": ""},
+ {"keyword": "娱乐/视频/哔哩哔哩/小Lin说", "keyword_id": "1705922781", "inp_keyword": ["xl"], "inp_content": ["留空", "留空"], "method": "class_none", "last": ""}, {"keyword": "娱乐/视频/哔哩哔哩", "keyword_id": "1705929497", "inp_keyword": ["bz"], "inp_content": ["留空", "哔哩哔哩"], "method": "class_none", "last": ""},
+ {"keyword": "测试", "keyword_id": "1705930849", "inp_keyword": ["留空", "留空"], "inp_content": ["留空", "留空"], "method": "class_none", "last": ""}, {"keyword": "BeeWare", "keyword_id": "1705973840", "inp_keyword": ["bwo"], "inp_content": ["留空", "留空"], "method": "class_none", "last": ""},
+ {"keyword": "文章/AI", "keyword_id": "1705976960", "inp_keyword": ["aia"], "inp_content": ["留空", "留空"], "method": "class_none", "last": ""}, {"keyword": "微信/交流/小小书屋", "keyword_id": "1705986264", "inp_keyword": ["sw", "cs258"], "inp_content": ["留空", "留空"], "method": "class_none", "last": ""},
+ {"keyword": "每日印象", "keyword_id": "1706142194", "inp_keyword": ["yx", "zp", "印象"], "inp_content": ["留空", "留空"], "method": "class_none", "last": ""}, {"keyword": "学习/单词发音", "keyword_id": "1706259715", "inp_keyword": ["发音", "单词发音", "fy"], "inp_content": ["留空", "留空"], "method": "class_none", "last": ""},
+ {"keyword": "规划/今日重点", "keyword_id": "1706325979", "inp_keyword": ["jz"], "inp_content": ["留空", "留空"], "method": "class_none", "last": ""}, {"keyword": "记录/24新年/在凯里", "keyword_id": "1706404517", "inp_keyword": ["j"], "inp_content": ["留空", "留空"], "method": "class_none", "last": ""},
+ {"keyword": "规划/BeeWare", "keyword_id": "1706404725", "inp_keyword": ["gb", "bw", "ghbw", "ghb", "规划bw"], "inp_content": ["留空", "留空"], "method": "class_none", "last": ""}, {"keyword": "ChatGPT/提问", "keyword_id": "1706416179", "inp_keyword": ["tw"], "inp_content": ["留空", "留空"], "method": "class_none", "last": ""},
+ {"keyword": "研究/Quicker", "keyword_id": "1706419808", "inp_keyword": ["qk"], "inp_content": ["留空", "留空"], "method": "class_none", "last": ""}, {"keyword": "规划/fsaxis", "keyword_id": "1706584347", "inp_keyword": ["ghf"], "inp_content": ["留空", "留空"], "method": "class_none", "last": ""},
+ {"keyword": "支出/带带/小狼崽子", "keyword_id": "1706663902", "inp_keyword": ["留空", "留空"], "inp_content": ["13716911"], "method": "class_none", "last": ""}, {"keyword": "就餐记录", "keyword_id": "01221932", "inp_keyword": ["留空", "测试1", "测试2"], "inp_content": ["吃", "吃"], "method": "class_none", "last": "0"},
+ {"keyword": "解答/Quicker", "keyword_id": "1707203490", "inp_keyword": ["解答q", "jdq", "jdqk"], "inp_content": ["留空", "留空"], "method": "class_none", "last": ""}, {"keyword": "TapTap/浏览", "keyword_id": "TapTap/浏览", "inp_keyword": ["留空", "留空"], "inp_content": ["www.taptap.cn/"], "method": "class_none", "last": ""},
+ {"keyword": "看飞书api", "keyword_id": "1707324017", "inp_keyword": ["留空", "留空"], "inp_content": ["open.feishu.cn"], "method": "class_none", "last": ""}, {"keyword": "测试新条目", "keyword_id": "1707404203", "inp_keyword": ["测试223"], "inp_content": ["留空", "留空"], "method": "class_none", "last": ""},
+ {"keyword": "测试998", "keyword_id": "1707404237", "inp_keyword": ["9987"], "inp_content": ["留空", "留空"], "method": "class_none", "last": ""}]}
