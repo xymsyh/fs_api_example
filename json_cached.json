@@ -1,7 +1,7 @@
 {
-    "doc_token": "替换为你的文档token",
-    "obj_token": "替换为你的对象token",
-    "tenant_token": "t-替换为你的租户token",
+    "doc_token": "替换为你的，示例：XXXswthgriUOnsk5dVQcXyXXXXX",
+    "obj_token": "替换为你的，示例：GovcsD7RChVV6qtgULqcPByNn7N",
+    "tenant_token": "替换为你的，示例：t-g104cvceCK4HUHYBNQXXXXXGIJVOFSRWM43J3XG7",
     "tenant_token_time": 1767157819.6791427,
     "locate_now_time": "12311336"
 }

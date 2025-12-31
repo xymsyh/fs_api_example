@@ -1,16 +1,16 @@
 {
-    "app_id": "替换为你的应用ID",
-    "app_secret": "替换为你的应用密钥",
-    "doc_token": "替换为你的文档token",
+    "app_id": "替换为你的，示例：cli_XXXXXXXXXXf9d00c",
+    "app_secret": "替换为你的，示例：CklX9EZ6tXXXXXXXXXXzAcGbAnFErGDG",
+    "doc_token": "替换为你的，示例：SWCswthgriUOnsk5dVQcXywBnTg",
 
     "a2_date": "2026-12-31",
 
-    "sheet_id_write": "替换为你的写入表格ID",
-    "sheet_id_analysis": "替换为你的分析表格ID",
-    "sheet_id_gallery": "替换为你的图库表格ID",
+    "sheet_id_write": "替换为你的，示例：9ba2f5",
+    "sheet_id_analysis": "替换为你的，示例：egx6yn",
+    "sheet_id_gallery": "替换为你的，示例：TSnyxR",
 
-    "sheet_id_log": "替换为你的日志表格ID",
-    "sheet_id_test": "替换为你的测试表格ID",
+    "sheet_id_log": "替换为你的，示例：6dR1P2",
+    "sheet_id_test": "替换为你的，示例：BH8ABG",
 
-    "sheet_id_config": "替换为你的配置表格ID"
+    "sheet_id_config": "替换为你的，示例：70fPAj"
 }
